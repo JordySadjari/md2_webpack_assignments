@@ -1,5 +1,5 @@
-
-
+import {existy} from 'utils/conditions.utils.js';
+import {adding} from 'utils/add1.utils';
 /**
  * Opdracht 1: imports
  * Importeer conditions.utils.js
@@ -7,6 +7,8 @@
  * Maak een object aan en check via existy() of hij bestaat
  * Maak een variabele aan maar geef hem nog geen vulling. Console.log() wat existy() teruggeeft
  */
+    console.log("existy test here:")
+    console.log(existy([]));
 
 /**
  * Opdracht 2: exports
@@ -17,7 +19,7 @@
  * met random getallen. getRandom(from, to)
  * importeer je bestand hier en voer je functie uit
  */
-
+console.log(adding(2));
 /**
  * Opdracht 3: Analyseer de Student Class
  *

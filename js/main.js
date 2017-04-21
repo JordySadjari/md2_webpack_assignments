@@ -1,3 +1,5 @@
+import "les_6";
+
 /**
  * Uitleg van deze opdrachten:
  * Kijk hoever je komt met deze opdrachten. Ik zal deze lijst in de toekomst
